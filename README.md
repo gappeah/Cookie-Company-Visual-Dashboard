@@ -5,16 +5,16 @@ This Excel-based interactive dashboard provides a comprehensive overview of the 
 
 ## Features
 
-- **Total Revenue**: Displays the grand total revenue of £3,587,170.00[1].
-- **Units Sold**: Breaks down total units sold by product and country[1].
-- **Profit Analysis**: Shows total profits by country[1].
+- **Total Revenue**: Displays the grand total revenue of £3,587,170.00.
+- **Units Sold**: Breaks down total units sold by product and country.
+- **Profit Analysis**: Shows total profits by country.
 - **Product Performance**: Visualizes sales data for different cookie types:
   - Chocolate Chip
   - Fortune Cookie
   - Oatmeal Raisin
   - Snickerdoodle
   - Sugar
-  - White Chocolate Macadamia Nut[1]
+  - White Chocolate Macadamia Nut
 
 ## Data Visualization
 
@@ -23,7 +23,7 @@ The dashboard includes various charts and graphs to represent the data:
 - Bar charts for comparing revenue across different time periods
 - Pie charts for product distribution
 - Stacked bar charts for country-wise product sales
-- Line graphs for trend analysis[1]
+- Line graphs for trend analysis
 
 ## Geographical Insights
 
@@ -33,7 +33,7 @@ Sales data is available for multiple countries:
 - Malaysia
 - Philippines
 - United Kingdom
-- United States[1]
+- United States
 
 ## Financial Metrics
 
@@ -41,12 +41,12 @@ The dashboard provides detailed financial information:
 
 - Revenue
 - Cost
-- Profit margins for each product and country combination[1]
+- Profit margins for each product and country combination
 
 ## Time-based Analysis
 
 - Data is available from September 1, 2019, to May 1, 2020
-- Allows for monthly and yearly comparisons[1]
+- Allows for monthly and yearly comparisons
 
 ## How to Use
 
